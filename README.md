@@ -1,5 +1,8 @@
 # hello-world
 
-hi i am Chou yee
-
-i am a 87 boy
+git status
+git ass README.md
+git status
+git commit -m "modfig README.md"
+git status
+git push origin master

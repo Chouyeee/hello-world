@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+hi i am Chou yee
+
+i am a 87 boy
